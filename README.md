@@ -1,26 +1,12 @@
-ASSIGNMENT-7
-Create Java applications with JDBC for database connectivity, CRUD operations, and MVC architecture.
+ASSIGNMENT-8
+
+Develop web applications using Servlets and JSP for user input handling, database integration.
 
 
 Easy Level:
-Problem Statement:
-Create a Java program to connect to a MySQL database and fetch data from a single table. The program should:
-Use DriverManager and Connection objects.
-Retrieve and display all records from a table named Employee with columns EmpID, Name, and Salary.
-
+Write a servlet to accept user credentials through an HTML form and display a personalized welcome message if the login is successful.
 Medium Level:
-Problem Statement:
-Build a program to perform CRUD operations (Create, Read, Update, Delete) on a database table Product with columns:
-ProductID, ProductName, Price, and Quantity.
-The program should include:
-Menu-driven options for each operation.
-Transaction handling to ensure data integrity.
-
+Create a servlet integrated with JDBC to display a list of employees from a database. Include a search form to fetch employee details by ID.
 Hard Level:
-Problem Statement:
-Develop a Java application using JDBC and MVC architecture to manage student data. The application should:
-Use a Student class as the model with fields like StudentID, Name, Department, and Marks.
-Include a database table to store student data.
-Allow the user to perform CRUD operations through a simple menu-driven view.
-Implement database operations in a separate controller class.
+Develop a JSP-based student portal. Include a form for entering attendance details and save them to the database using a servlet.
 
